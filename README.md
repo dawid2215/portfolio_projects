@@ -99,6 +99,4 @@ I'm a data analyst passionate about using data to drive decision-making. With ex
 * [Tableau Public](https://public.tableau.com/app/profile/your-name)
 * Email: [your.email@example.com](mailto:your.email@example.com)
 
----
 
-Would you like this in Markdown format or want help tailoring it to a specific project (like sales analysis or customer segmentation)?
