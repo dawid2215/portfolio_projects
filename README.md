@@ -95,8 +95,9 @@ I'm a data analyst passionate about using data to drive decision-making. With ex
 
 ## 📫 Contact
 
-* [LinkedIn](https://www.linkedin.com/in/your-name)
-* [Tableau Public](https://public.tableau.com/app/profile/your-name)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+
+
+* Email: dovudyakubov346@gmail.com
+* 
 
 
